@@ -1,0 +1,7 @@
+name 'chef-light-locker'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures chef-light-locker'
+long_description 'Installs/Configures chef-light-locker'
+version '0.1.0'
