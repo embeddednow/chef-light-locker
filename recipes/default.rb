@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: chef-light-locker
+# Cookbook Name:: light-locker
 # Recipe:: default
 #
 # Copyright (c) 2016 The Authors, All Rights Reserved.
